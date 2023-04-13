@@ -17,20 +17,6 @@ int lastIndex();
 int newSizeOfClass();
 void editGrade();
 void removeStudent();
- /*char* adminPass ="1234";
-int editAdminPass();
-myIndex();
 
-student arr[30];*//*={
-{
-   12,32,43,'M',"ali","ali1"
-},
-{
-  12,3,43,'M',"al","al1"
-}
-}
-;*//*
-void viewAllRecords();
 
-void editGrade();
-addStudent();*/
+
