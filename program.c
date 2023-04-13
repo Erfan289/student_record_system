@@ -154,58 +154,6 @@ void removeStudent(int id) {
 
 
 
-/*
-//done------
-void editGrade(int degree, int id) {
-    int index = myIndex(id);
-
-        arr[index].degree = degree;
-
-
-}
-int addStudent(char *name, char *password, int degree, int id, int age, int gender) {
-    for (int i = 0; i < 20; i++) {
-        if (arr[i].id == id) {
-            printf("this id already exists\n");
-            return 0;
-        }
-        else {
-      int newIndex=1;
-   arr[newIndex].name = (char *) malloc(strlen(name) + 1);
-   strcpy(arr[newIndex].name, name);
-   arr[newIndex],password = (char *) malloc(strlen(password) + 1);
-   strcpy(arr[newIndex].password, password);
-   arr[newIndex].degree = degree;
-    arr[newIndex].id = id;
-    arr[newIndex].age = age;}
-    } }
-sizeofClass(int c){
-    if (c=1){     //use macro here
-         cntr++;//this one
-
-        if (cntr>20){
-
-            printf("sorry ,sir the class is full\n");
-        }
-        else
-        return cntr;
-        }
-    if (c=0){
-         cntr--;
-        if (cntr>20){
-
-            printf("sorry the class is full\n");
-        }
-        else
-        return cntr;
-        }
-
-
-
-    }*/
-
-
-
 
 
 
